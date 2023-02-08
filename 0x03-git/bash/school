@@ -1,2 +1,1 @@
-#!/bin/bsh
-“School”
+#!/bin/bash\necho "school"
